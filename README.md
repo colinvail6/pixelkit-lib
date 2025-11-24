@@ -1,2 +1,2 @@
 # pixelkit-lib
-Library for my Hackster project
+My libraries for the Kano Pixel Kit
